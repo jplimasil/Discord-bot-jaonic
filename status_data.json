@@ -1,0 +1,55 @@
+{
+    "status": {
+        "força": {
+            "10": {
+                "nome": "somatória de força(Habilidade)",
+                "descricao": "A cada 10 de força soma +100 de dano em armas ou ações que aplicam dano envolvendo força Exp: Maça, Bastão ou arremessar uma pedra"
+            },
+            "25": {
+                "nome": "Só isso?(Vantagem)",
+                "descricao": "Em disputar força com alguém com menos força que você, ganha +1d4 pra ações suas porém gasta 1d8 de energia Exp:agarrar ou uma queda de braço"
+            },
+            "40": {
+                "nome": "tô fortin(Habilidade)",
+                "descricao": "1d4 vez ao dia pode aplicar +1d1000 de dano com força em armas que usam força como requisito"
+            },
+            "50": {
+                "nome": "Músculos divinos(Passiva)",
+                "descricao": "Críticos envolvendo aplicação de força resultam em +1,5k de dano bruto; críticos de 1 a 20 com aplicação de força resultam em 1d5k+ de dano"
+            }
+        },
+        "agilidade": {
+            "24": {
+                "nome": "Nome da habilidade 24",
+                "descricao": "Descrição do status 24 de agilidade..."
+            },
+            "40": {
+                "nome": "Nome da habilidade 40",
+                "descricao": "Descrição do status 40 de agilidade..."
+            },
+            "50": {
+                "nome": "Nome da habilidade 50",
+                "descricao": "Descrição do status 50 de agilidade..."
+            }
+        },
+        "velocidade": {
+            "20": {
+                "nome": "Nome da habilidade 24",
+                "descricao": "Descrição do status 24 de velocidade..."
+            },
+            "35": {
+                "nome": "Nome da habilidade 40",
+                "descricao": "Descrição do status 40 de velocidade..."
+            },
+            "50": {
+                "nome": "Nome da habilidade 50",
+                "descricao": "Descrição do status 50 de velocidade..."
+            }
+        }
+
+    },
+    "synonyms": {
+        "força": ["força", "forca", "força", "força", "forçã"],
+        "agilidade": ["agilidade", "agilidadẽ", "agilidad"]
+    }
+}
