@@ -1,4 +1,4 @@
-# Bot Discord para RPG de Mesa com GPT-3.5
+# Bot Discord para RPG de Mesa com GPT-3.5 entre outras funcionalidades que tera
 
 Este bot Discord foi desenvolvido para melhorar a experiência de jogadores de RPG de mesa ao oferecer funcionalidades para gerenciamento de personagens e interações inteligentes usando o modelo de linguagem GPT-3.5 da OpenAI.
 
