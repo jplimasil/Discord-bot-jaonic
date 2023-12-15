@@ -26,12 +26,7 @@ Atualmente, o bot oferece comandos para criar personagens, rolar dados e acessar
 
 ## Status do Projeto
 
-Este projeto está em andamento e novas funcionalidades estão sendo desenvolvidas. Se você encontrar algum problema ou tiver alguma ideia, por favor, compartilhe conosco!
+Este projeto está em andamento e novas funcionalidades estão sendo desenvolvidas. Novas ideia sara sempre bem vindas!
 
-## Contato
 
-Para suporte ou perguntas, entre em contato no servidor do Discord [inserir link para o servidor].
-
----
-
-**Nota:** Este bot é uma criação independente e não é oficialmente associado à OpenAI ou ao Discord.
+**Nota:** Este bot é uma criação independente, para aprendizado e melhorar nosso querido RPG de mesa.
