@@ -26,7 +26,7 @@ Atualmente, o bot oferece comandos para criar personagens, rolar dados e acessar
 
 ## Status do Projeto
 
-Este projeto está em andamento e novas funcionalidades estão sendo desenvolvidas. Novas ideia sara sempre bem vindas!
+Este projeto está em andamento e novas funcionalidades estão sendo desenvolvidas. Novas ideia seram sempre bem vindas!
 
 
 **Nota:** Este bot é uma criação independente, para aprendizado e melhorar nosso querido RPG de mesa.
